@@ -1,0 +1,5 @@
+/* defines the way mouse curor would behave on page  */
+
+body{
+  cursor: url('aero cursor.png'), auto;
+}
