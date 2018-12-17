@@ -1,7 +1,4 @@
-.icon:hover {
--moz-animation: rotatecircle 4s infinite linear;
--webkit-animation: rotatecircle 4s linear;
-}
+
 .outerCircle {
 background-color: transparent;
 border: 8px solid rgba(200, 82, 180, 0.9);
